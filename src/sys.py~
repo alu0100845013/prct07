@@ -9,4 +9,5 @@ for i in range(0,len(t_upla)):
 mostrar (l)
 # el maximo numero de elementos de la t-upla es de 8
 # para 9 o mas elementos
-# no
+# no es posible
+#cuando el programador importa un modulo tambien crea una version compilada y ya tiene extension .pyc
